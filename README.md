@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on: Innovative web apps for enhanced user experiences.<br><br>👯 Open to: Collaborating on exciting tech projects.<br><br>🤝 Seeking help with: Advanced UI/UX design techniques.<br><br>🌱 Learning: Modern JavaScript (React.js) and cloud computing.<br><br>💬 Ask me about: Web development techniques
+🔭 Working on: Innovative web apps for enhanced user experiences.<br><br>👯 Open to: Collaborating on exciting tech projects.<br><br>✉️ You can contact me at mhamadsaid0000@gmail.com.<br><br>🧠 I'm learning a new materials in web development.<br><br>💬 Ask me about: Web development techniques
 
 
 ## 🌐 Socials:
