@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhamadsaid&label=Profile%20views&color=0e75b6&style=flat" alt="mhamadsaid" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhamadsaid" alt="mhamadsaid" /></a> </p>
-
 - 🔭 I’m currently working on **Innovative web apps for enhanced user experiences.**
 
 - 🌱 I’m currently learning **new materials in web development.**
@@ -27,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhamadsaid&show_icons=true&theme=dark&locale=en&layout=compact" alt="mhamadsaid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhamadsaid&show_icons=true&locale=en" alt="mhamadsaid" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhamadsaid&show_icons=true&theme=dark&locale=en" alt="mhamadsaid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhamadsaid&theme=dark" alt="mhamadsaid" /></p>
